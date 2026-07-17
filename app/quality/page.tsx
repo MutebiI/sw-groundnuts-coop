@@ -104,7 +104,7 @@ export default function QualityPage() {
       <section className="relative isolate overflow-hidden min-h-[30vh] flex items-center">
         <div className="absolute inset-0 -z-10">
           <Image
-            src="/images/governance-bg.jpg"
+            src="/images/Quality-You-Can.jpg"
             alt="Quality Assurance"
             fill
             className="object-cover"

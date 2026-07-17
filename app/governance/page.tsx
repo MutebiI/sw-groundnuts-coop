@@ -57,7 +57,7 @@ export default function GovernancePage() {
       <section className="relative isolate overflow-hidden min-h-[30vh] flex items-center">
         <div className="absolute inset-0 -z-10">
           <Image
-            src="/images/governance-bg.jpg"
+            src="/images/Our-Governance.jpg"
             alt="Cooperative governance"
             fill
             className="object-cover"
