@@ -76,7 +76,7 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <span className="mt-0.5">📞</span>
                 <a href="tel:+256XXX" className="hover:text-white transition">
-                  +256 XXX XXX XXX
+                  +256 772 888 123
                 </a>
               </li>
             </ul>
