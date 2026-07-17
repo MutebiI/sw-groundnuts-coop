@@ -50,43 +50,43 @@ export default function GalleryPage() {
   );
 
   const galleryImages = [
-    {
-      id: 1,
-      src: "/images/members.jpg",
-      title: "Union members during a community gathering",
-      category: "Community",
-    },
-    {
-      id: 2,
-      src: "/images/agm-meeting.jpg",
-      title: "Members during the Annual General Meeting",
-      category: "Meetings",
-    },
-    {
-      id: 3,
-      src: "/images/women-sorting.jpg",
-      title: "Women sorting groundnuts",
-      category: "Processing",
-    },
-    {
-      id: 4,
-      src: "/images/groundnuts-sacks.jpg",
-      title: "Freshly harvested groundnuts",
-      category: "Products",
-    },
-    {
-      id: 5,
-      src: "/images/groundnuts-floor.jpg",
-      title: "Groundnuts drying before processing",
-      category: "Processing",
-    },
-    {
-      id: 6,
-      src: "/images/sacks-rolling.jpg",
-      title: "Preparing groundnuts for processing",
-      category: "Processing",
-    },
-  ];
+  {
+    id: 1,
+    src: "/images/members.jpg",
+    title: "Union members during a community gathering",
+    category: "Community",
+  },
+  {
+    id: 2,
+    src: "/images/agm-meeting.jpg",
+    title: "Members during the Annual General Meeting",
+    category: "Meetings",
+  },
+  {
+    id: 3,
+    src: "/images/women-sorting.jpg",
+    title: "Women sorting groundnuts",
+    category: "Processing",
+  },
+  {
+    id: 4,
+    src: "/images/sacks-truck.jpg",
+    title: "Freshly harvested groundnuts being transported",
+    category: "Supply Chain",
+  },
+  {
+    id: 5,
+    src: "/images/sacks-floor.jpg",
+    title: "Packed groundnuts ready for processing",
+    category: "Supply Chain",
+  },
+  {
+    id: 6,
+    src: "/images/quality-product.jpg",
+    title: "Premium groundnut products — quality you can trust",
+    category: "Products",
+  },
+];
 
   const blueShapes = [
     "rounded-[60%_40%_30%_70%/60%_30%_70%_40%]",
